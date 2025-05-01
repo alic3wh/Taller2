@@ -10,6 +10,10 @@ namespace Promedio1
     {
         static void Main(string[] args)
         {
+            Player player = new Player();
+            int vida;
+            int dano;
+            //player.Status(int vida, int dano);
         }
     }
 }
